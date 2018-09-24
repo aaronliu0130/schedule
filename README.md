@@ -9,4 +9,6 @@ If you want more information about the repository, please
 
 If your looking for my new weekly review,it's not going to be in WR as a .docx file anymore.It's going to be in the schedule.xlsx file.
 
+If your looking for my new schedule,it's going to be temporarily in schedule2.xlsx instead of schedule.xlsx.
+
 Also, please [look at my channel!](https://www.youtube.com/channel/UCvfqduLrAaBeQjexEEqVZfA?sub_confirmation=1)
