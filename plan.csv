@@ -1,14 +1,14 @@
-date,4-June,Remaining weeks,4,,,,
-类别,milestone,学期目标,当前完成,本周目标,本周完成,今天目标,今天完成
-编程,usaco traning: fin,fin c3/58,57,1,0,1,0
-编程,"usaco hist, fin 2018~2019 Bronze and maybe silver",,0,0,0,0,0
-奥数,finish精讲与测试7年级,10,10,10,0,0,0
-数(中考),finish数学,4张,2.75章,新增进度0.5,新增进度0.75,0,0
-BS,each semester each subject 10 ribbons,6*21,6*16+3,3,新增3,0,
-练字,,3*8,3*5,3,0,1,0
-足球队,,,开始训练,完成训练,0,0,0
-墨墨,积累单词,15500,13953,14000,13953,,
-英语,writing better,,0,1,0,0,0
-学而思,每节课“超神”（连续答对7题）,做完每周作业,,1,1,0,0
-运动,拳击(俯卧撑跳绳)或Ring Fit完成,每天做其中一个,0,1(10*3+1000)或R,0,0,0
-英语,finish book,index book,0,0,0,0,0
+﻿date,4-Jun,Remaining weeks,4,,,,,
+类别,milestone,学期目标,当前完成,本周目标,本周完成,今天目标,今天完成,Notes
+编程,usaco traning: fin C3,58,58,0,0,0,0,
+编程,"usaco hist, fin 2018~2019 Bronze and maybe silver",,0,0,0,0,0,On Stall
+奥数,finish精讲与测试7年级,10,10,10,0,0,0,Finished
+数(中考),finish数学,4章,3,新增进度0.5,新增进度0.75,0,0,
+BS,each semester each subject 10 ribbons,6*21,6*17,新增6,0,0,0,
+练字,,3*8,3*6,3,0,0,0,
+足球队,,,开始训练,完成训练,0,0,0,On Stall
+墨墨,积累单词,15500,14036,14075,14036,14055,0,
+英语,writing better,,0,1,0,0,0,None this week 
+学而思,每节课“超神”（连续答对7题）,做完每周作业,,1,0,0,0,
+运动,拳击(俯卧撑跳绳)或Ring Fit完成,每天做其中一个,0,每天1(10*3+1000)或R,0,R,0,
+英语,finish book,index book,0,0,0,0,0,Not queued yet
